@@ -62,7 +62,7 @@ p{
 }
 
 input::placeholder {
-    color: red;
+    color: blue;
     opacity: 1;
   }
 
